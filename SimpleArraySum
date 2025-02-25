@@ -4,5 +4,5 @@ function simpleArraySum(ar) {
         s = s +ar[i];
     }
 
-return soma;
+return s;
 }
